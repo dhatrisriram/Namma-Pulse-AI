@@ -1,4 +1,4 @@
-# Namma-Surge
+# NammaPulse AI
 🚀 Predictive Surge Forecasting System
 
 ## 📌 Project Overview
