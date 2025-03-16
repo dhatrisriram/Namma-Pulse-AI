@@ -1,0 +1,6 @@
+streamlit
+folium
+pandas
+requests
+json5
+openai
