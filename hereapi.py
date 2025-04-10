@@ -3,7 +3,7 @@ import requests
 import time
 
 # Constants
-API_KEY = "aMdlpzV__Fi_dsa66B8zZEa1jmfg21jBTXsTy-Yjl0Q"
+API_KEY = hereapi key
 INPUT_FILE = "All-time Table-Bangalore-Wards.csv"
 OUTPUT_FILE = "C:/Users/Dhatri P Sriram/Desktop/Dhatri/Projects/Predictive Surge/Updated_Bangalore_Wards.csv"
 BASE_URL = "https://geocode.search.hereapi.com/v1/geocode"
