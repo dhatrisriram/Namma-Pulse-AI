@@ -2,9 +2,9 @@ import requests
 import pandas as pd
 
 # API Keys
-HERE_API_KEY = "bfB84ia5lob5G5rO_tBY3VJp7w7cQu58CO4q_AEzDB0"
-PREDICTHQ_API_KEY = "B8-Oefz6t_bO0Jq8tO7c21jsNDZoaHUFiWqY9fX0"
-WEATHER_API_KEY = "deffc4a52d19a3200248cac1ba6d1e1d"
+HERE_API_KEY = 
+PREDICTHQ_API_KEY = 
+WEATHER_API_KEY = 
 
 # Base URLs
 HERE_BASE_URL = "https://geocode.search.hereapi.com/v1/geocode"
