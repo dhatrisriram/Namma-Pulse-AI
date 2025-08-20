@@ -1,5 +1,4 @@
-# NammaPulse AI
-🚀 Predictive Surge Forecasting System
+#  Predictive Surge Forecasting System
 
 ## 📌 Project Overview
 The **Predictive Surge Forecasting System** helps **Namma Yatri** proactively predict **hyperlocal ride demand surges** 30-60 minutes in advance. Using **Google's Temporal Fusion Transformer (TFT)** for time-series forecasting and **Graph Neural Networks (GNNs)** for spatial demand patterns, it enables **optimized driver repositioning** using the **Hungarian algorithm** while analyzing zone connectivity with a **Traffic Connectivity Matrix**.
